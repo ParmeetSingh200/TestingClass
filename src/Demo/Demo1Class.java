@@ -16,7 +16,7 @@ public class Demo1Class {
 	public void TestCase3() {
 		System.out.println("Hello 2");
 	}
-	
+	Test
 	
 
 }
